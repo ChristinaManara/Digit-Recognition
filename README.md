@@ -1,2 +1,2 @@
 # Digit Recognition
-By clicking the index.html, you will have the opportunity to download the project. 
+By downloading the code of this repository, you can click on index.html in order to read the description. 
